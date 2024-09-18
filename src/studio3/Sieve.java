@@ -22,7 +22,7 @@ public class Sieve {
 
 	}
 			if (prime [i] == true) {
-				System.out.println( i );
+				System.out.println( i + " is prime!");
 			}		
 }
 
